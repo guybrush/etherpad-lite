@@ -1,3 +1,6 @@
 [submodule "nstore"]
-        path = deps/nstore
-        url = git://github.com/creationix/nstore.git
+	path = nstore
+	url = git://github.com/creationix/nstore.git
+[submodule "deps/nstore"]
+	path = deps/nstore
+	url = git://github.com/creationix/nstore.git
