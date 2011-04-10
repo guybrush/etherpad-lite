@@ -1,6 +1,3 @@
-[submodule "deps/nstore"]
-	path = deps/nstore
-	url = git://github.com/creationix/nstore.git
 [submodule "deps/pattern"]
 	path = deps/pattern
 	url = git://github.com/creationix/pattern.git
