@@ -11,4 +11,6 @@ if [ -d "../bin" ]; then
   cd "../"
 fi
 
+export NODE_PATH="deps/nstore/lib:deps/pattern/lib"
+
 nodeunit tests
