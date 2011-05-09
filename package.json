@@ -1,0 +1,5 @@
+{ "name" : "ep-lite"
+, "version" : "0.0.1"
+, "dependencies" : { "socket.io" : "0.6.17" }
+, "bin" : { "ep-lite" : "./bin/etherpad-lite.js" }
+}
